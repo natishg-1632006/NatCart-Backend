@@ -1,9 +1,20 @@
-const getLaptopProducts=(req,res,next)=>{
-    res.send("All data are Sended succefully");
+const LaptopData=require("../Models/LaptopModel");
+const getLaptopProducts=async (req,res,next)=>{
+    const laptopProductData=await LaptopData.find({});
+    res.json({
+        success:true,
+        laptopProductData
+    });
 }
 
-const getoneLaptopProducts=(req,res,next)=>{
-    res.send("one data are Sended succefully");
+const getoneLaptopProducts=async (req,res,next)=>{
+    const laptopProductDetails=await LaptopData.findById(req.params.id);
+    console.log(laptopProductDetails);
+    
+    res.json({
+        success:true,
+        laptopProductDetails
+    })
 }
 
 module.exports={getLaptopProducts,getoneLaptopProducts};
