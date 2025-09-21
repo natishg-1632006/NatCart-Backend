@@ -1,0 +1,362 @@
+[
+  {
+    "brand": "Samsung",
+    "model": "Galaxy M14",
+    "ram": "6GB",
+    "storage": "128GB",
+    "displaySize": "6.6 inch",
+    "displayResolution": "FHD+",
+    "displayType": "PLS LCD",
+    "displayRefreshRate": "90Hz",
+    "displayStyle": "Flat",
+    "battery": "6000mAh",
+    "mrp": 15999,
+    "offerPrice": 12999,
+    "processor": "Exynos 1330",
+    "rating": 4.3,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "A budget powerhouse with a large battery and smooth display."
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "ram": "6GB",
+    "storage": "128GB",
+    "displaySize": "6.1 inch",
+    "displayResolution": "Super Retina XDR",
+    "displayType": "OLED",
+    "displayRefreshRate": "60Hz",
+    "displayStyle": "Flat",
+    "battery": "3279mAh",
+    "mrp": 79999,
+    "offerPrice": 71999,
+    "processor": "A15 Bionic",
+    "rating": 4.8,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Premium smartphone with advanced camera and iOS ecosystem."
+  },
+  {
+    "brand": "OnePlus",
+    "model": "Nord CE 3 Lite",
+    "ram": "8GB",
+    "storage": "128GB",
+    "displaySize": "6.72 inch",
+    "displayResolution": "FHD+",
+    "displayType": "LCD",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Flat",
+    "battery": "5000mAh",
+    "mrp": 21999,
+    "offerPrice": 18999,
+    "processor": "Snapdragon 695",
+    "rating": 4.4,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Affordable 5G phone with smooth performance and sleek design."
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 12 Pro",
+    "ram": "8GB",
+    "storage": "256GB",
+    "displaySize": "6.67 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Flat",
+    "battery": "5000mAh",
+    "mrp": 25999,
+    "offerPrice": 22999,
+    "processor": "MediaTek Dimensity 1080",
+    "rating": 4.5,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Great value smartphone with AMOLED display and fast charging."
+  },
+  {
+    "brand": "Realme",
+    "model": "Narzo 60x",
+    "ram": "6GB",
+    "storage": "128GB",
+    "displaySize": "6.6 inch",
+    "displayResolution": "FHD+",
+    "displayType": "IPS LCD",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Flat",
+    "battery": "5000mAh",
+    "mrp": 16999,
+    "offerPrice": 13999,
+    "processor": "MediaTek Dimensity 6100+",
+    "rating": 4.2,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Stylish design with reliable 5G performance."
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 7a",
+    "ram": "8GB",
+    "storage": "128GB",
+    "displaySize": "6.1 inch",
+    "displayResolution": "FHD+",
+    "displayType": "OLED",
+    "displayRefreshRate": "90Hz",
+    "displayStyle": "Flat",
+    "battery": "4385mAh",
+    "mrp": 43999,
+    "offerPrice": 37999,
+    "processor": "Google Tensor G2",
+    "rating": 4.7,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Compact Android phone with best-in-class camera software."
+  },
+  {
+    "brand": "iQOO",
+    "model": "Neo 7",
+    "ram": "12GB",
+    "storage": "256GB",
+    "displaySize": "6.78 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Flat",
+    "battery": "5000mAh",
+    "mrp": 34999,
+    "offerPrice": 29999,
+    "processor": "MediaTek Dimensity 8200",
+    "rating": 4.6,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Performance-focused phone ideal for gaming and multitasking."
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 40",
+    "ram": "8GB",
+    "storage": "256GB",
+    "displaySize": "6.55 inch",
+    "displayResolution": "FHD+",
+    "displayType": "pOLED",
+    "displayRefreshRate": "144Hz",
+    "displayStyle": "Curved",
+    "battery": "4400mAh",
+    "mrp": 32999,
+    "offerPrice": 28999,
+    "processor": "MediaTek Dimensity 8020",
+    "rating": 4.4,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Slim design with curved display and clean stock Android."
+  },
+  {
+    "brand": "Vivo",
+    "model": "V29",
+    "ram": "12GB",
+    "storage": "256GB",
+    "displaySize": "6.78 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Curved",
+    "battery": "4600mAh",
+    "mrp": 38999,
+    "offerPrice": 34999,
+    "processor": "Snapdragon 778G",
+    "rating": 4.5,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Stylish camera phone with Aura light for better portraits."
+  },
+  {
+    "brand": "OPPO",
+    "model": "Reno 10 Pro",
+    "ram": "12GB",
+    "storage": "256GB",
+    "displaySize": "6.7 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Curved",
+    "battery": "4600mAh",
+    "mrp": 44999,
+    "offerPrice": 39999,
+    "processor": "Snapdragon 778G",
+    "rating": 4.6,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Premium camera-centric phone with telephoto portrait lens."
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (2)",
+    "ram": "12GB",
+    "storage": "256GB",
+    "displaySize": "6.7 inch",
+    "displayResolution": "FHD+",
+    "displayType": "OLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Flat",
+    "battery": "4700mAh",
+    "mrp": 49999,
+    "offerPrice": 42999,
+    "processor": "Snapdragon 8+ Gen 1",
+    "rating": 4.5,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Unique transparent design with glyph interface lighting."
+  },
+  {
+    "brand": "Infinix",
+    "model": "Zero Ultra",
+    "ram": "8GB",
+    "storage": "256GB",
+    "displaySize": "6.78 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Curved",
+    "battery": "4500mAh",
+    "mrp": 32999,
+    "offerPrice": 28999,
+    "processor": "MediaTek Dimensity 920",
+    "rating": 4.2,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Ultra-fast charging phone with premium design."
+  },
+  {
+    "brand": "Asus",
+    "model": "ROG Phone 7",
+    "ram": "16GB",
+    "storage": "512GB",
+    "displaySize": "6.78 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "165Hz",
+    "displayStyle": "Flat",
+    "battery": "6000mAh",
+    "mrp": 74999,
+    "offerPrice": 69999,
+    "processor": "Snapdragon 8 Gen 2",
+    "rating": 4.8,
+   "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Gaming beast with high refresh rate display and cooling system."
+  },
+  {
+    "brand": "Poco",
+    "model": "X5 Pro",
+    "ram": "8GB",
+    "storage": "256GB",
+    "displaySize": "6.67 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Flat",
+    "battery": "5000mAh",
+    "mrp": 22999,
+    "offerPrice": 19999,
+    "processor": "Snapdragon 778G",
+    "rating": 4.3,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Mid-range performance phone with vibrant display."
+  },
+  {
+    "brand": "Lava",
+    "model": "Agni 2",
+    "ram": "8GB",
+    "storage": "2TB",
+    "displaySize": "6.78 inch",
+    "displayResolution": "FHD+",
+    "displayType": "AMOLED",
+    "displayRefreshRate": "120Hz",
+    "displayStyle": "Curved",
+    "battery": "4700mAh",
+    "mrp": 24999,
+    "offerPrice": 21999,
+    "processor": "MediaTek Dimensity 7050",
+    "rating": 4.1,
+     "image": [
+            {
+                "image":"img"
+            }
+        ],
+        "stock":"10",
+        "createdAt":"16/3/2006",
+    "description": "Made-in-India 5G smartphone with curved AMOLED display."
+  }
+]

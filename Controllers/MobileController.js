@@ -1,9 +1,18 @@
-const  getMobileProduct=(req,res,next)=>{
-    res.send("All mobile data are sended succefully");
+const mobileData=require("../Models/MobileModel");
+const  getMobileProduct=async(req,res,next)=>{
+    const mobileProductData=await mobileData.find({});
+    res.json({
+        success:true,
+        mobileProductData
+    })
 }
 
-const getOneMobileProduct=(req,res,next)=>{
-    res.send("One mobile data are sended succefully");
+const getOneMobileProduct=async (req,res,next)=>{
+    const mobileProductDetails=await mobileData.findById(req.params.id);
+      res.json({
+        success:true,
+        mobileProductDetails
+    })
 }
 
 module.exports={getMobileProduct,getOneMobileProduct};

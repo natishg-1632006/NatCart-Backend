@@ -20,6 +20,7 @@ const laptopSchema=new mongoose.Schema({
         ],
         stock:String,
         createdAt:Date
+        
 })
 
 const laptopModel=mongoose.model("LaptopData",laptopSchema);

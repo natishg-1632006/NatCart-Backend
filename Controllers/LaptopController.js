@@ -1,5 +1,6 @@
 const LaptopData=require("../Models/LaptopModel");
 const getLaptopProducts=async (req,res,next)=>{
+    
     const laptopProductData=await LaptopData.find({});
     res.json({
         success:true,
